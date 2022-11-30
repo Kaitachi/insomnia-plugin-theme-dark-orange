@@ -5,5 +5,9 @@
     "name": "theme-dark-orange",
     "description": "Dark Orange Theme for Insomnia"
   },
-  "main": "main.js"
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kaitachi/insomnia-plugin-theme-dark-orange"
+  }
 }
