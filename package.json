@@ -1,0 +1,9 @@
+{
+  "name": "insomnia-plugin-theme-dark-orange",
+  "version": "0.1.0",
+  "insomnia": {
+    "name": "theme-dark-orange",
+    "description": "Dark Orange Theme for Insomnia"
+  },
+  "main": "main.js"
+}
