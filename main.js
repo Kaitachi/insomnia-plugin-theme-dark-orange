@@ -47,7 +47,7 @@ module.exports.themes = [{
             }
         },
         rawCss: `
-            .editor .CodeMirror .cm-curl-comment { // Comment sections for Timeline
+            .editor .CodeMirror .cm-curl-comment {
                 color: hsl(202, 7%, 68%);
             }
         `
